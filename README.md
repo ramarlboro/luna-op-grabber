@@ -1,11 +1,16 @@
 # luna-op-grabber
 Features
+
 Discord Info
 
 Token
+
 Nitro
+
 Billing
+
 2FA
+
 Email
 Phone
 Gift Codes
